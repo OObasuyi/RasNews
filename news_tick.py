@@ -2,7 +2,7 @@ from newsapi import NewsApiClient
 from alpaca_trade_api.rest import REST, TimeFrame
 from os import path
 from card_reader import CardManager
-from finalproject.lcd_screen import BlueScreen
+from lcd_screen import BlueScreen
 from secret_handling import SquirrelJump
 
 
